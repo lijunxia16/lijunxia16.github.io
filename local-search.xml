@@ -4,11 +4,24 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2022/05/09/2022.5.9%E5%BA%9F%E8%AF%9D/"/>
-    <url>/2022/05/09/2022.5.9%E5%BA%9F%E8%AF%9D/</url>
+    <title>我的第一篇博客</title>
+    <link href="/2022/05/08/2022.5.9%E5%BA%9F%E8%AF%9D/"/>
+    <url>/2022/05/08/2022.5.9%E5%BA%9F%E8%AF%9D/</url>
     
     <content type="html"><![CDATA[<blockquote><p>今天简单学习以下markdown的使用吧~<br>顺便说一些废话</p></blockquote><h1 id="2022-5-9废话"><a href="#2022-5-9废话" class="headerlink" title="2022.5.9废话"></a>2022.5.9废话</h1><h2 id="1-今日屁事"><a href="#1-今日屁事" class="headerlink" title="1 今日屁事"></a>1 今日屁事</h2><ul><li><p>上水课</p></li><li><p>学习计算机组成原理（打算做一个思维导图，虽然才看到第三章，平时真的没有认真学）</p></li><li><p>吃+锻炼+睡觉</p><h3 id="不好意思说我无所事事了一天"><a href="#不好意思说我无所事事了一天" class="headerlink" title="不好意思说我无所事事了一天"></a>不好意思说我无所事事了一天</h3><h2 id="2-明日计划"><a href="#2-明日计划" class="headerlink" title="2 明日计划"></a>2 明日计划</h2></li><li><p>上课、实验</p></li><li><p>学习计算机组成原理（思维导图）</p></li><li><p>复习概率论</p></li><li><p>JAVA快一点开始书本结合实践（太难了呜呜呜）</p><h5 id="得早睡早起，不要天天熬夜，"><a href="#得早睡早起，不要天天熬夜，" class="headerlink" title="得早睡早起，不要天天熬夜，"></a>得早睡早起，不要天天熬夜，</h5><h5 id="看一点有营养的东西"><a href="#看一点有营养的东西" class="headerlink" title="看一点有营养的东西"></a>看一点有营养的东西</h5><h5 id="不要磨蹭"><a href="#不要磨蹭" class="headerlink" title="不要磨蹭"></a>不要磨蹭</h5></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>一个新的开始</title>
+    <link href="/2022/05/08/%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <url>/2022/05/08/%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="一个新的开始"><a href="#一个新的开始" class="headerlink" title="一个新的开始"></a>一个新的开始</h2><h3 id="长话短说"><a href="#长话短说" class="headerlink" title="长话短说"></a>长话短说</h3><p>没有什么特别的想法，只是觉得自己有一些事情可以做是一件很好的事情。<br>既然找到了想做的事，那么接下来便是做好这件事。</p>]]></content>
     
     
     
@@ -22,32 +35,6 @@
     <url>/2022/05/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
     <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/2022/05/08/New%20Document/"/>
-    <url>/2022/05/08/New%20Document/</url>
-    
-    <content type="html"><![CDATA[<h2 id="一个新的开始"><a href="#一个新的开始" class="headerlink" title="一个新的开始"></a>一个新的开始</h2><h3 id="长话短说"><a href="#长话短说" class="headerlink" title="长话短说"></a>长话短说</h3><p>没有什么特别的想法，只是觉得自己有一些事情可以做是一件很好的事情。<br>既然找到了想做的事，那么接下来便是做好这件事。</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/05/08/hello-world/"/>
-    <url>/2022/05/08/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
